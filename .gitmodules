@@ -1,0 +1,3 @@
+[submodule "Histograms"]
+	path = Histograms
+	url = https://github.com/SimonBolducBeaudoin/Histograms.git
