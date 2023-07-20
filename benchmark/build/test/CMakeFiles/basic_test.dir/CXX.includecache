@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/benchmark/benchmark.h
+stdint.h
+-
+algorithm
+-
+cassert
+-
+cstddef
+-
+iosfwd
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+initializer_list
+-
+type_traits
+-
+utility
+-
+intrin.h
+-
+
+/cygdrive/c/Users/Sous-sol/Desktop/CODES/Time_domain/libs/benchmark/test/basic_test.cc
+benchmark/benchmark.h
+/cygdrive/c/Users/Sous-sol/Desktop/CODES/Time_domain/libs/benchmark/test/benchmark/benchmark.h
+
