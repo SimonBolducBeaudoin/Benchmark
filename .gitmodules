@@ -1,3 +1,8 @@
 [submodule "Histograms"]
 	path = Histograms
 	url = https://github.com/SimonBolducBeaudoin/Histograms.git
+
+[submodule "Histograms_BENCHMARK"]
+	path = Histograms_BENCHMARK
+	url = https://github.com/SimonBolducBeaudoin/Histograms_BENCHMARK.git
+
